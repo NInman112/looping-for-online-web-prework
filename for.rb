@@ -1,7 +1,9 @@
 
 def using_for
 	checklist = 1..10
-	for checklist
+	for item in checklist
+	puts "Wingardium leviosa"
+	end
 end
 
 
